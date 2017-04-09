@@ -8,7 +8,7 @@
 
 ![](http://i.imgur.com/u7uKdBF.png)
 
-![](http://i.imgur.com/baROWLG.png)
+![](http://i.imgur.com/95gDzLZ.png)
 
 ![](http://i.imgur.com/IiimN5K.png)
 
