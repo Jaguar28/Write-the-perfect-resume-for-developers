@@ -19,14 +19,11 @@
 ## 😺 About Jaguar28:
 
 - You can read here our [Manifesto](https://medium.com/jaguar28/jaguar28-manifesto-9-points-for-rewriting-the-relation-between-companies-and-tech-professionals-fbd9226a5098); we also managed to have it on [GitHub](https://github.com/Jaguar28/Jaguar28-Manifesto)
-- If you are interested in joining us, you can request here your invitation: [Jaguar28 - Join](http://www.jaguar28.com/join/). We are using Slack, so you might be familiar with that 🤘
+- If you are interested in joining us, you can request here your invitation: [Jaguar28 - Join](http://www.jaguar28.com/)
 - You can follow us on [Facebook](https://www.facebook.com/jaguar28team/), [Twitter](https://twitter.com/jaguar28team) and [Linkedin](https://www.linkedin.com/company-beta/11043440/)
 
 ## 😻 Main benefits for joining Jaguar28:
 
-- **TECH2TECH CHAT**
-
-Members of Jaguar28 have the opportunity to give and receive technological support as well as share information and updates.
 - **TOP-TIER JOB OPPORTUNITIES**
 
 Jaguar28 allows each member to create exclusive contacts with companies that comply with our Manifesto and can offer great career options.
