@@ -14,7 +14,7 @@
 
 ![](http://i.imgur.com/p2O3JoB.png)
 
-![](http://i.imgur.com/fWiPkBH.png)
+![](http://i.imgur.com/igKZog7.png)
 
 ## 😺 About Jaguar28:
 
