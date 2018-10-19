@@ -28,4 +28,3 @@ How can you help us with this guide?
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Contact us at hello@jaguar28.com with your comments
