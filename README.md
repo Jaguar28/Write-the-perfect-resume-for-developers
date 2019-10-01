@@ -16,7 +16,7 @@
 
 ![](http://i.imgur.com/igKZog7.png)
 
-## 😺 About Pops Tech:
+## 🕹 About Pops Tech:
 
 We wrote a [Manifesto](https://medium.com/bluepartners/jaguar28-manifesto-9-points-for-rewriting-the-relation-between-companies-and-tech-professionals-fbd9226a5098) for sharing our vision and our goals; we also managed to have it on [GitHub](https://github.com/Jaguar28/Jaguar28-Manifesto)
 
